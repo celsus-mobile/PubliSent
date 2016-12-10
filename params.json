@@ -1,0 +1,6 @@
+{
+  "name": "Publisent",
+  "tagline": "A Twitter sentiment analysis tool that analyses public sentiment on a product or service,a person, a political party or even a Topic of interest to someone",
+  "body": "### Welcome to PublicSent\r\nThis python based tool allows individuals, businesses and organizations to check how well (or badly) their product or service is perceived by the public. It does this by searching the web among other social media platforms and finds the search query. The tool uses the publicly available data to calculate the sentiment on a topic of interest. \r\n\r\n### Authors and Contributors\r\nThanks to all the contributors to Edwin (@code2man) for their support and contribution, as well as the entire team at Celsus Mobile. \r\n\r\n### Support or Contact\r\n\r\nHaving trouble with PubliSent? Check out our [documentation](https://help.celsusmobile.com/product/pages) or [contact support](https://celsusmobile.com/contact) and we’ll help you sort it out.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
